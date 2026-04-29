@@ -1,3 +1,4 @@
+// Project Data Configuration
 const base = "/"
 
 export type Category = "AI/ML" | "AI Systems" | "Data Analytics" | "All";
