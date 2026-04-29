@@ -1,3 +1,4 @@
+// Root Layout with Metadata and Global Styles
 import React from "react";
 import "./globals.css";
 import { Metadata } from "next";
