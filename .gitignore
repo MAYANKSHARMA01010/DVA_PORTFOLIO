@@ -45,3 +45,5 @@ next-env.d.ts
 Icon
 .Spotlight-V100
 .Trashes
+
+dist/
