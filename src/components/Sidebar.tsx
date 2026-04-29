@@ -1,3 +1,4 @@
+// User Profile and Technical Skills Sidebar
 import React from 'react';
 
 export default function Sidebar() {
