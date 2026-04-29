@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="440" viewBox="0 0 800 440">
+  <defs>
+    <linearGradient id="bg4" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="100%" style="stop-color:#1a0d0d"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="440" fill="url(#bg4)"/>
+  <rect x="0" y="0" width="800" height="56" fill="#1a0d0d" opacity="0.9"/>
+  <text x="28" y="36" font-family="monospace" font-size="16" fill="#ff5a5f" font-weight="700">SmartStay</text>
+  <text x="134" y="36" font-family="monospace" font-size="13" fill="#6e7681"> Airbnb Market Intelligence</text>
+  <rect x="660" y="16" width="110" height="24" rx="4" fill="#ff5a5f" opacity="0.2"/>
+  <text x="715" y="32" text-anchor="middle" font-family="monospace" font-size="11" fill="#ff5a5f">30,048 Listings</text>
+
+  <!-- Big KPI -->
+  <rect x="28" y="76" width="220" height="120" rx="8" fill="#1a1010" stroke="#ff5a5f" stroke-width="1.5"/>
+  <text x="138" y="104" text-anchor="middle" font-family="monospace" font-size="11" fill="#8b949e">Superhost Revenue ROI</text>
+  <text x="138" y="148" text-anchor="middle" font-family="monospace" font-size="34" fill="#ff5a5f" font-weight="900">$34,613</text>
+  <text x="138" y="168" text-anchor="middle" font-family="monospace" font-size="11" fill="#6e7681">per year advantage</text>
+
+  <!-- RevPAR gap -->
+  <rect x="264" y="76" width="220" height="120" rx="8" fill="#1a1010" stroke="#333" stroke-width="1"/>
+  <text x="374" y="100" text-anchor="middle" font-family="monospace" font-size="11" fill="#8b949e">RevPAR Gap</text>
+  <text x="310" y="148" text-anchor="middle" font-family="monospace" font-size="22" fill="#34d399" font-weight="700">$101.41</text>
+  <text x="310" y="166" text-anchor="middle" font-family="monospace" font-size="9" fill="#6e7681">High performers</text>
+  <text x="420" y="148" text-anchor="middle" font-family="monospace" font-size="22" fill="#f87171" font-weight="700">$12.08</text>
+  <text x="420" y="166" text-anchor="middle" font-family="monospace" font-size="9" fill="#6e7681">Median</text>
+  <text x="374" y="184" text-anchor="middle" font-family="monospace" font-size="13" fill="#ff5a5f" font-weight="700">8.4× gap</text>
+
+  <!-- Zero revenue stat -->
+  <rect x="500" y="76" width="140" height="120" rx="8" fill="#1a1010" stroke="#333" stroke-width="1"/>
+  <text x="570" y="100" text-anchor="middle" font-family="monospace" font-size="10" fill="#8b949e">Zero Revenue Listings</text>
+  <text x="570" y="148" text-anchor="middle" font-family="monospace" font-size="34" fill="#f59e0b" font-weight="700">27.1%</text>
+  <text x="570" y="170" text-anchor="middle" font-family="monospace" font-size="9" fill="#6e7681">Market-entry risk</text>
+
+  <!-- Total listings -->
+  <rect x="656" y="76" width="116" height="120" rx="8" fill="#1a1010" stroke="#333" stroke-width="1"/>
+  <text x="714" y="100" text-anchor="middle" font-family="monospace" font-size="10" fill="#8b949e">Listings</text>
+  <text x="714" y="140" text-anchor="middle" font-family="monospace" font-size="22" fill="#ff5a5f" font-weight="700">30,048</text>
+  <text x="714" y="158" text-anchor="middle" font-family="monospace" font-size="9" fill="#6e7681">across 4 cities</text>
+  <text x="714" y="178" text-anchor="middle" font-family="monospace" font-size="18" fill="#fbbf24">★ 3</text>
+
+  <!-- City comparison bar chart -->
+  <rect x="28" y="214" width="460" height="150" rx="8" fill="#1a1010" stroke="#333" stroke-width="1"/>
+  <text x="44" y="236" font-family="monospace" font-size="11" fill="#8b949e">City Avg Price Comparison</text>
+  <!-- Amsterdam -->
+  <rect x="60" y="300" width="60" height="50" rx="2" fill="#ff5a5f" opacity="0.8"/>
+  <text x="90" y="295" text-anchor="middle" font-family="monospace" font-size="8" fill="#ff5a5f">€165</text>
+  <text x="90" y="362" text-anchor="middle" font-family="monospace" font-size="8" fill="#8b949e">Amsterdam</text>
+  <!-- Antwerp -->
+  <rect x="160" y="316" width="60" height="34" rx="2" fill="#ff5a5f" opacity="0.6"/>
+  <text x="190" y="311" text-anchor="middle" font-family="monospace" font-size="8" fill="#ff5a5f">€112</text>
+  <text x="190" y="362" text-anchor="middle" font-family="monospace" font-size="8" fill="#8b949e">Antwerp</text>
+  <!-- Athens -->
+  <rect x="260" y="322" width="60" height="28" rx="2" fill="#ff5a5f" opacity="0.4"/>
+  <text x="290" y="317" text-anchor="middle" font-family="monospace" font-size="8" fill="#ff5a5f">€92</text>
+  <text x="290" y="362" text-anchor="middle" font-family="monospace" font-size="8" fill="#8b949e">Athens</text>
+  <!-- Bangkok -->
+  <rect x="360" y="326" width="60" height="24" rx="2" fill="#ff5a5f" opacity="0.3"/>
+  <text x="390" y="321" text-anchor="middle" font-family="monospace" font-size="8" fill="#ff5a5f">€78</text>
+  <text x="390" y="362" text-anchor="middle" font-family="monospace" font-size="8" fill="#8b949e">Bangkok</text>
+
+  <!-- Dashboard count -->
+  <rect x="504" y="214" width="268" height="150" rx="8" fill="#1a1010" stroke="#333" stroke-width="1"/>
+  <text x="638" y="238" text-anchor="middle" font-family="monospace" font-size="11" fill="#8b949e">Audience Dashboards</text>
+  <text x="638" y="290" text-anchor="middle" font-family="monospace" font-size="56" fill="#ff5a5f" font-weight="900">3</text>
+  <text x="520" y="330" font-family="monospace" font-size="9" fill="#6e7681">👤 Investors</text>
+  <text x="610" y="330" font-family="monospace" font-size="9" fill="#6e7681">🏠 Hosts</text>
+  <text x="686" y="330" font-family="monospace" font-size="9" fill="#6e7681">🔧 Managers</text>
+
+  <!-- Tags -->
+  <rect x="28" y="382" width="70" height="22" rx="11" fill="#3b0a0a" opacity="0.8"/>
+  <text x="63" y="397" text-anchor="middle" font-family="monospace" font-size="10" fill="#ff5a5f">Tableau</text>
+  <rect x="110" y="382" width="60" height="22" rx="11" fill="#3b0a0a" opacity="0.8"/>
+  <text x="140" y="397" text-anchor="middle" font-family="monospace" font-size="10" fill="#ff5a5f">Pandas</text>
+  <rect x="182" y="382" width="70" height="22" rx="11" fill="#3b0a0a" opacity="0.8"/>
+  <text x="217" y="397" text-anchor="middle" font-family="monospace" font-size="10" fill="#ff5a5f">NumPy</text>
+  <rect x="264" y="382" width="80" height="22" rx="11" fill="#3b0a0a" opacity="0.8"/>
+  <text x="304" y="397" text-anchor="middle" font-family="monospace" font-size="10" fill="#ff5a5f">Seaborn</text>
+  <rect x="356" y="382" width="50" height="22" rx="11" fill="#3b0a0a" opacity="0.8"/>
+  <text x="381" y="397" text-anchor="middle" font-family="monospace" font-size="10" fill="#ff5a5f">EDA</text>
+</svg>
